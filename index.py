@@ -1,4 +1,4 @@
-print(Bismillah)
-print(Alhamdulillah)
-print(Allahuakber)
-print(subhanalllah)
+print("Bismillah")
+print("Alhamdulillah")
+print("Allahuakber")
+print("Subhanalllah")
